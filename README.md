@@ -110,4 +110,4 @@ Copy any theme file into your OpenCode themes directory:
 
 ## License
 
-MIT — do whatever. These are mine but I made them for OpenCode so use them freely.
+See [LICENSE](LICENSE) — MIT, do whatever.
