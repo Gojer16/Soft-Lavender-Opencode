@@ -2,6 +2,8 @@
 
 A family of hand-crafted themes for [OpenCode AI](https://opencode.ai). Built around soft purples with complementary accent palettes — each variant has its own personality while sharing the same visual DNA.
 
+[Themes](#themes) · [Installation](#installation) · [Usage](#usage)
+
 ## Themes
 
 ### Soft Lavender
@@ -32,13 +34,35 @@ Blush pink tones throughout. Berry and coral replace the warmer accents. Most pl
 - **Primary accent:** `#BD84D8`
 - **Highlights:** Berry (`#C95D8E`), coral (`#DE8B7A`), amber (`#C0903D`), violet
 
-## Features
+[⬆ back to top](#soft-lavender-themes-for-opencode) · [Usage ↓](#usage)
 
-- **Full dark + light mode** support in a single file
-- **Syntax highlighting** for all major languages
-- **Markdown rendering** styled consistently (headings, links, code blocks, lists)
-- **Diff / git integration** with distinct added/removed highlighting and line numbers
-- **Semantic color roles** — primary, secondary, accent, error, warning, success, info
+## Installation
+
+### Global Installation
+
+```bash
+mkdir -p ~/.config/opencode/themes
+
+curl -o ~/.config/opencode/themes/soft-lavender.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender.json
+
+curl -o ~/.config/opencode/themes/soft-lavender-light.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-light.json
+
+curl -o ~/.config/opencode/themes/soft-lavender-cream.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-cream.json
+
+curl -o ~/.config/opencode/themes/soft-lavender-rose.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-rose.json
+```
+
+That's it. The themes will be available globally in OpenCode AI.
+
+### Manual
+
+Copy any theme file into your themes directory:
+
+```
+~/.config/opencode/themes/
+```
+
+[⬆ back to top](#soft-lavender-themes-for-opencode) · [Usage ↓](#usage)
 
 ## Usage
 
@@ -68,35 +92,7 @@ Replace `your-theme-name` with the filename of any theme in your themes director
 
 Theme selections persist across sessions.
 
-> **Note:** These usage instructions apply to any OpenCode theme — not just this repo. Any theme file placed in `~/.config/opencode/themes/` becomes available via `/theme` and the config above.
-
-## Installation
-
-### Global Installation
-
-Create the themes directory and download all four variants:
-
-```bash
-mkdir -p ~/.config/opencode/themes
-
-curl -o ~/.config/opencode/themes/soft-lavender.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender.json
-
-curl -o ~/.config/opencode/themes/soft-lavender-light.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-light.json
-
-curl -o ~/.config/opencode/themes/soft-lavender-cream.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-cream.json
-
-curl -o ~/.config/opencode/themes/soft-lavender-rose.json https://raw.githubusercontent.com/Gojer16/Soft-Lavender-Opencode/main/.opencode/themes/soft-lavender-rose.json
-```
-
-That's it. The themes will be available globally in OpenCode AI.
-
-### Manual
-
-Copy any theme file into your OpenCode themes directory:
-
-```
-~/.config/opencode/themes/
-```
+> These usage instructions apply to any OpenCode theme — not just this repo. Any theme file placed in `~/.config/opencode/themes/` becomes available via `/theme` and the config above.
 
 ## File Structure
 
