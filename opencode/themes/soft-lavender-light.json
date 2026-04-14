@@ -1,0 +1,228 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "lav0": "#F6F0FF",
+    "lav1": "#FBF8FF",
+    "lav2": "#F2EBFF",
+    "lav3": "#E7DBFF",
+    "lav4": "#D4C3F4",
+    "lav5": "#43345C",
+    "lav6": "#6A5793",
+    "lav7": "#866BC1",
+    "lav8": "#9B7BE8",
+    "lav9": "#B591FF",
+    "lav10": "#CDAAFF",
+    "rose": "#D96B93",
+    "apricot": "#D98C5F",
+    "gold": "#B68A26",
+    "mint": "#4FA772",
+    "lilac": "#A564D8",
+    "addedBg": "#EAFBF1",
+    "removedBg": "#FFF0F4",
+    "contextBg": "#F8F3FF",
+    "lineAddedBg": "#DCF6E6",
+    "lineRemovedBg": "#FFE2EA"
+  },
+  "theme": {
+    "primary": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "secondary": {
+      "dark": "lav7",
+      "light": "lav7"
+    },
+    "accent": {
+      "dark": "lav10",
+      "light": "lav10"
+    },
+    "error": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "warning": {
+      "dark": "apricot",
+      "light": "apricot"
+    },
+    "success": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "info": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "text": {
+      "dark": "lav5",
+      "light": "lav5"
+    },
+    "textMuted": {
+      "dark": "lav6",
+      "light": "lav6"
+    },
+    "background": {
+      "dark": "lav0",
+      "light": "lav1"
+    },
+    "backgroundPanel": {
+      "dark": "lav2",
+      "light": "lav2"
+    },
+    "backgroundElement": {
+      "dark": "lav3",
+      "light": "lav3"
+    },
+    "border": {
+      "dark": "lav4",
+      "light": "lav4"
+    },
+    "borderActive": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "borderSubtle": {
+      "dark": "#E9DFFF",
+      "light": "#E9DFFF"
+    },
+    "diffAdded": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "diffRemoved": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "diffContext": {
+      "dark": "lav6",
+      "light": "lav6"
+    },
+    "diffHunkHeader": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "diffHighlightAdded": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "diffHighlightRemoved": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "diffAddedBg": {
+      "dark": "addedBg",
+      "light": "addedBg"
+    },
+    "diffRemovedBg": {
+      "dark": "removedBg",
+      "light": "removedBg"
+    },
+    "diffContextBg": {
+      "dark": "contextBg",
+      "light": "contextBg"
+    },
+    "diffLineNumber": {
+      "dark": "#A38CBD",
+      "light": "#A38CBD"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "lineAddedBg",
+      "light": "lineAddedBg"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "lineRemovedBg",
+      "light": "lineRemovedBg"
+    },
+    "markdownText": {
+      "dark": "lav5",
+      "light": "lav5"
+    },
+    "markdownHeading": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "markdownLink": {
+      "dark": "lav7",
+      "light": "lav7"
+    },
+    "markdownLinkText": {
+      "dark": "lilac",
+      "light": "lilac"
+    },
+    "markdownCode": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "markdownBlockQuote": {
+      "dark": "lav6",
+      "light": "lav6"
+    },
+    "markdownEmph": {
+      "dark": "apricot",
+      "light": "apricot"
+    },
+    "markdownStrong": {
+      "dark": "gold",
+      "light": "gold"
+    },
+    "markdownHorizontalRule": {
+      "dark": "lav4",
+      "light": "lav4"
+    },
+    "markdownListItem": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "markdownListEnumeration": {
+      "dark": "lilac",
+      "light": "lilac"
+    },
+    "markdownImage": {
+      "dark": "lav7",
+      "light": "lav7"
+    },
+    "markdownImageText": {
+      "dark": "lilac",
+      "light": "lilac"
+    },
+    "markdownCodeBlock": {
+      "dark": "lav5",
+      "light": "lav5"
+    },
+    "syntaxComment": {
+      "dark": "lav6",
+      "light": "lav6"
+    },
+    "syntaxKeyword": {
+      "dark": "lav8",
+      "light": "lav8"
+    },
+    "syntaxFunction": {
+      "dark": "#8A61D8",
+      "light": "#8A61D8"
+    },
+    "syntaxVariable": {
+      "dark": "#7B5BC3",
+      "light": "#7B5BC3"
+    },
+    "syntaxString": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "syntaxNumber": {
+      "dark": "lilac",
+      "light": "lilac"
+    },
+    "syntaxType": {
+      "dark": "#6E54C7",
+      "light": "#6E54C7"
+    },
+    "syntaxOperator": {
+      "dark": "lav7",
+      "light": "lav7"
+    },
+    "syntaxPunctuation": {
+      "dark": "lav5",
+      "light": "lav5"
+    }
+  }
+}

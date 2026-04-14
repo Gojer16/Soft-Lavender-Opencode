@@ -1,0 +1,228 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "cream0": "#FFFDF8",
+    "cream1": "#FFF8F0",
+    "cream2": "#F8F0FF",
+    "cream3": "#F1E5FA",
+    "cream4": "#DDCDEA",
+    "cream5": "#4A3B5E",
+    "cream6": "#77658F",
+    "cream7": "#8D74B1",
+    "cream8": "#A789D8",
+    "cream9": "#C29EFF",
+    "cream10": "#E4C7FF",
+    "peach": "#D98B65",
+    "honey": "#B98A2F",
+    "sage": "#5AA07D",
+    "rose": "#CF7694",
+    "plum": "#9D66CB",
+    "addedBg": "#EDF9F1",
+    "removedBg": "#FFF2F4",
+    "contextBg": "#FFF8F5",
+    "lineAddedBg": "#DDF2E4",
+    "lineRemovedBg": "#FFE4EA"
+  },
+  "theme": {
+    "primary": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "secondary": {
+      "dark": "cream7",
+      "light": "cream7"
+    },
+    "accent": {
+      "dark": "cream10",
+      "light": "cream10"
+    },
+    "error": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "warning": {
+      "dark": "peach",
+      "light": "peach"
+    },
+    "success": {
+      "dark": "sage",
+      "light": "sage"
+    },
+    "info": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "text": {
+      "dark": "cream5",
+      "light": "cream5"
+    },
+    "textMuted": {
+      "dark": "cream6",
+      "light": "cream6"
+    },
+    "background": {
+      "dark": "cream0",
+      "light": "cream1"
+    },
+    "backgroundPanel": {
+      "dark": "cream2",
+      "light": "cream2"
+    },
+    "backgroundElement": {
+      "dark": "cream3",
+      "light": "cream3"
+    },
+    "border": {
+      "dark": "cream4",
+      "light": "cream4"
+    },
+    "borderActive": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "borderSubtle": {
+      "dark": "#F0E2F8",
+      "light": "#F0E2F8"
+    },
+    "diffAdded": {
+      "dark": "sage",
+      "light": "sage"
+    },
+    "diffRemoved": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "diffContext": {
+      "dark": "cream6",
+      "light": "cream6"
+    },
+    "diffHunkHeader": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "diffHighlightAdded": {
+      "dark": "sage",
+      "light": "sage"
+    },
+    "diffHighlightRemoved": {
+      "dark": "rose",
+      "light": "rose"
+    },
+    "diffAddedBg": {
+      "dark": "addedBg",
+      "light": "addedBg"
+    },
+    "diffRemovedBg": {
+      "dark": "removedBg",
+      "light": "removedBg"
+    },
+    "diffContextBg": {
+      "dark": "contextBg",
+      "light": "contextBg"
+    },
+    "diffLineNumber": {
+      "dark": "#B59ECF",
+      "light": "#B59ECF"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "lineAddedBg",
+      "light": "lineAddedBg"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "lineRemovedBg",
+      "light": "lineRemovedBg"
+    },
+    "markdownText": {
+      "dark": "cream5",
+      "light": "cream5"
+    },
+    "markdownHeading": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "markdownLink": {
+      "dark": "cream7",
+      "light": "cream7"
+    },
+    "markdownLinkText": {
+      "dark": "plum",
+      "light": "plum"
+    },
+    "markdownCode": {
+      "dark": "sage",
+      "light": "sage"
+    },
+    "markdownBlockQuote": {
+      "dark": "cream6",
+      "light": "cream6"
+    },
+    "markdownEmph": {
+      "dark": "peach",
+      "light": "peach"
+    },
+    "markdownStrong": {
+      "dark": "honey",
+      "light": "honey"
+    },
+    "markdownHorizontalRule": {
+      "dark": "cream4",
+      "light": "cream4"
+    },
+    "markdownListItem": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "markdownListEnumeration": {
+      "dark": "plum",
+      "light": "plum"
+    },
+    "markdownImage": {
+      "dark": "cream7",
+      "light": "cream7"
+    },
+    "markdownImageText": {
+      "dark": "plum",
+      "light": "plum"
+    },
+    "markdownCodeBlock": {
+      "dark": "cream5",
+      "light": "cream5"
+    },
+    "syntaxComment": {
+      "dark": "cream6",
+      "light": "cream6"
+    },
+    "syntaxKeyword": {
+      "dark": "cream8",
+      "light": "cream8"
+    },
+    "syntaxFunction": {
+      "dark": "#9167C9",
+      "light": "#9167C9"
+    },
+    "syntaxVariable": {
+      "dark": "#7E5AB4",
+      "light": "#7E5AB4"
+    },
+    "syntaxString": {
+      "dark": "sage",
+      "light": "sage"
+    },
+    "syntaxNumber": {
+      "dark": "plum",
+      "light": "plum"
+    },
+    "syntaxType": {
+      "dark": "#6F54B1",
+      "light": "#6F54B1"
+    },
+    "syntaxOperator": {
+      "dark": "cream7",
+      "light": "cream7"
+    },
+    "syntaxPunctuation": {
+      "dark": "cream5",
+      "light": "cream5"
+    }
+  }
+}

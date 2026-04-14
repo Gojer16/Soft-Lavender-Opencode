@@ -1,0 +1,228 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "rose0": "#FFF8FB",
+    "rose1": "#FFF3F8",
+    "rose2": "#FCEAF3",
+    "rose3": "#F5DBEA",
+    "rose4": "#E3C4D7",
+    "rose5": "#523A53",
+    "rose6": "#866684",
+    "rose7": "#A276AA",
+    "rose8": "#BD84D8",
+    "rose9": "#D797F2",
+    "rose10": "#F0B6D7",
+    "berry": "#C95D8E",
+    "coral": "#DE8B7A",
+    "amber": "#C0903D",
+    "mint": "#5AA585",
+    "violet": "#9D5FE0",
+    "addedBg": "#EDF9F1",
+    "removedBg": "#FFEFF5",
+    "contextBg": "#FFF6FA",
+    "lineAddedBg": "#DDF2E4",
+    "lineRemovedBg": "#FFDDE9"
+  },
+  "theme": {
+    "primary": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "secondary": {
+      "dark": "rose7",
+      "light": "rose7"
+    },
+    "accent": {
+      "dark": "rose10",
+      "light": "rose10"
+    },
+    "error": {
+      "dark": "berry",
+      "light": "berry"
+    },
+    "warning": {
+      "dark": "coral",
+      "light": "coral"
+    },
+    "success": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "info": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "text": {
+      "dark": "rose5",
+      "light": "rose5"
+    },
+    "textMuted": {
+      "dark": "rose6",
+      "light": "rose6"
+    },
+    "background": {
+      "dark": "rose0",
+      "light": "rose1"
+    },
+    "backgroundPanel": {
+      "dark": "rose2",
+      "light": "rose2"
+    },
+    "backgroundElement": {
+      "dark": "rose3",
+      "light": "rose3"
+    },
+    "border": {
+      "dark": "rose4",
+      "light": "rose4"
+    },
+    "borderActive": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "borderSubtle": {
+      "dark": "#F1DCE9",
+      "light": "#F1DCE9"
+    },
+    "diffAdded": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "diffRemoved": {
+      "dark": "berry",
+      "light": "berry"
+    },
+    "diffContext": {
+      "dark": "rose6",
+      "light": "rose6"
+    },
+    "diffHunkHeader": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "diffHighlightAdded": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "diffHighlightRemoved": {
+      "dark": "berry",
+      "light": "berry"
+    },
+    "diffAddedBg": {
+      "dark": "addedBg",
+      "light": "addedBg"
+    },
+    "diffRemovedBg": {
+      "dark": "removedBg",
+      "light": "removedBg"
+    },
+    "diffContextBg": {
+      "dark": "contextBg",
+      "light": "contextBg"
+    },
+    "diffLineNumber": {
+      "dark": "#BC9FB7",
+      "light": "#BC9FB7"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "lineAddedBg",
+      "light": "lineAddedBg"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "lineRemovedBg",
+      "light": "lineRemovedBg"
+    },
+    "markdownText": {
+      "dark": "rose5",
+      "light": "rose5"
+    },
+    "markdownHeading": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "markdownLink": {
+      "dark": "rose7",
+      "light": "rose7"
+    },
+    "markdownLinkText": {
+      "dark": "violet",
+      "light": "violet"
+    },
+    "markdownCode": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "markdownBlockQuote": {
+      "dark": "rose6",
+      "light": "rose6"
+    },
+    "markdownEmph": {
+      "dark": "coral",
+      "light": "coral"
+    },
+    "markdownStrong": {
+      "dark": "amber",
+      "light": "amber"
+    },
+    "markdownHorizontalRule": {
+      "dark": "rose4",
+      "light": "rose4"
+    },
+    "markdownListItem": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "markdownListEnumeration": {
+      "dark": "violet",
+      "light": "violet"
+    },
+    "markdownImage": {
+      "dark": "rose7",
+      "light": "rose7"
+    },
+    "markdownImageText": {
+      "dark": "violet",
+      "light": "violet"
+    },
+    "markdownCodeBlock": {
+      "dark": "rose5",
+      "light": "rose5"
+    },
+    "syntaxComment": {
+      "dark": "rose6",
+      "light": "rose6"
+    },
+    "syntaxKeyword": {
+      "dark": "rose8",
+      "light": "rose8"
+    },
+    "syntaxFunction": {
+      "dark": "#A364D7",
+      "light": "#A364D7"
+    },
+    "syntaxVariable": {
+      "dark": "#8D5BBB",
+      "light": "#8D5BBB"
+    },
+    "syntaxString": {
+      "dark": "mint",
+      "light": "mint"
+    },
+    "syntaxNumber": {
+      "dark": "violet",
+      "light": "violet"
+    },
+    "syntaxType": {
+      "dark": "#7C52B7",
+      "light": "#7C52B7"
+    },
+    "syntaxOperator": {
+      "dark": "rose7",
+      "light": "rose7"
+    },
+    "syntaxPunctuation": {
+      "dark": "rose5",
+      "light": "rose5"
+    }
+  }
+}

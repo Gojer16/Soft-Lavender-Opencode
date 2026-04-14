@@ -1,0 +1,233 @@
+{
+  "$schema": "https://opencode.ai/theme.json",
+  "defs": {
+    "lavender0": "#16111F",
+    "lavender1": "#1E1730",
+    "lavender2": "#2A2141",
+    "lavender3": "#3B3057",
+    "lavender4": "#CFC6E8",
+    "lavender5": "#E7E1F5",
+    "lavender6": "#F7F4FC",
+    "lavender7": "#BBA7F6",
+    "lavender8": "#CFAEFF",
+    "lavender9": "#A88CFF",
+    "lavender10": "#8E6FF7",
+    "lavender11": "#F07A9A",
+    "lavender12": "#FFB38A",
+    "lavender13": "#F7D98B",
+    "lavender14": "#97E6B8",
+    "lavender15": "#D9A6FF",
+    "lavenderBgLight": "#FBF8FF",
+    "lavenderPanelLight": "#F2EBFF",
+    "lavenderElementLight": "#E7DBFF",
+    "lavenderBorderLight": "#C9B8E9",
+    "lavenderTextLight": "#43345C",
+    "lavenderMutedLight": "#7E6A9E",
+    "lavenderAddedBgDark": "#1E2C2A",
+    "lavenderRemovedBgDark": "#32202B",
+    "lavenderAddedBgLight": "#EAFBF1",
+    "lavenderRemovedBgLight": "#FFF0F4"
+  },
+  "theme": {
+    "primary": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "secondary": {
+      "dark": "lavender9",
+      "light": "lavender9"
+    },
+    "accent": {
+      "dark": "lavender15",
+      "light": "lavender8"
+    },
+    "error": {
+      "dark": "lavender11",
+      "light": "lavender11"
+    },
+    "warning": {
+      "dark": "lavender12",
+      "light": "lavender12"
+    },
+    "success": {
+      "dark": "lavender14",
+      "light": "lavender14"
+    },
+    "info": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "text": {
+      "dark": "lavender5",
+      "light": "lavenderTextLight"
+    },
+    "textMuted": {
+      "dark": "lavender7",
+      "light": "lavenderMutedLight"
+    },
+    "background": {
+      "dark": "lavender0",
+      "light": "lavenderBgLight"
+    },
+    "backgroundPanel": {
+      "dark": "lavender1",
+      "light": "lavenderPanelLight"
+    },
+    "backgroundElement": {
+      "dark": "lavender2",
+      "light": "lavenderElementLight"
+    },
+    "border": {
+      "dark": "lavender3",
+      "light": "lavenderBorderLight"
+    },
+    "borderActive": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "borderSubtle": {
+      "dark": "lavender2",
+      "light": "#DED0F5"
+    },
+    "diffAdded": {
+      "dark": "lavender14",
+      "light": "#4FA772"
+    },
+    "diffRemoved": {
+      "dark": "lavender11",
+      "light": "#D85B7E"
+    },
+    "diffContext": {
+      "dark": "lavender7",
+      "light": "lavenderMutedLight"
+    },
+    "diffHunkHeader": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "diffHighlightAdded": {
+      "dark": "#B7F1CC",
+      "light": "#4FA772"
+    },
+    "diffHighlightRemoved": {
+      "dark": "#FFAAC0",
+      "light": "#D85B7E"
+    },
+    "diffAddedBg": {
+      "dark": "lavenderAddedBgDark",
+      "light": "lavenderAddedBgLight"
+    },
+    "diffRemovedBg": {
+      "dark": "lavenderRemovedBgDark",
+      "light": "lavenderRemovedBgLight"
+    },
+    "diffContextBg": {
+      "dark": "lavender1",
+      "light": "lavenderPanelLight"
+    },
+    "diffLineNumber": {
+      "dark": "lavender3",
+      "light": "#A38CBD"
+    },
+    "diffAddedLineNumberBg": {
+      "dark": "#203531",
+      "light": "#DCF6E6"
+    },
+    "diffRemovedLineNumberBg": {
+      "dark": "#3A2430",
+      "light": "#FFE2EA"
+    },
+    "markdownText": {
+      "dark": "lavender5",
+      "light": "lavenderTextLight"
+    },
+    "markdownHeading": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "markdownLink": {
+      "dark": "lavender9",
+      "light": "lavender9"
+    },
+    "markdownLinkText": {
+      "dark": "lavender15",
+      "light": "lavender8"
+    },
+    "markdownCode": {
+      "dark": "lavender14",
+      "light": "#4FA772"
+    },
+    "markdownBlockQuote": {
+      "dark": "lavender7",
+      "light": "lavenderMutedLight"
+    },
+    "markdownEmph": {
+      "dark": "lavender12",
+      "light": "#D78254"
+    },
+    "markdownStrong": {
+      "dark": "lavender13",
+      "light": "#C49B2F"
+    },
+    "markdownHorizontalRule": {
+      "dark": "lavender3",
+      "light": "lavenderBorderLight"
+    },
+    "markdownListItem": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "markdownListEnumeration": {
+      "dark": "lavender15",
+      "light": "lavender8"
+    },
+    "markdownImage": {
+      "dark": "lavender9",
+      "light": "lavender9"
+    },
+    "markdownImageText": {
+      "dark": "lavender15",
+      "light": "lavender8"
+    },
+    "markdownCodeBlock": {
+      "dark": "lavender4",
+      "light": "lavenderTextLight"
+    },
+    "syntaxComment": {
+      "dark": "lavender7",
+      "light": "lavenderMutedLight"
+    },
+    "syntaxKeyword": {
+      "dark": "lavender8",
+      "light": "lavender10"
+    },
+    "syntaxFunction": {
+      "dark": "#E7C7FF",
+      "light": "#8A61D8"
+    },
+    "syntaxVariable": {
+      "dark": "#D6C3FF",
+      "light": "#7B5BC3"
+    },
+    "syntaxString": {
+      "dark": "lavender14",
+      "light": "#4FA772"
+    },
+    "syntaxNumber": {
+      "dark": "lavender15",
+      "light": "#B05BE3"
+    },
+    "syntaxType": {
+      "dark": "#C7BCFF",
+      "light": "#6E54C7"
+    },
+    "syntaxOperator": {
+      "dark": "lavender9",
+      "light": "lavender9"
+    },
+    "syntaxPunctuation": {
+      "dark": "lavender4",
+      "light": "lavenderTextLight"
+    }
+  }
+}
