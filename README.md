@@ -7,6 +7,7 @@ A family of hand-crafted themes for [OpenCode AI](https://opencode.ai). Built ar
 ## Themes
 
 ### Soft Lavender
+<img width="1920" height="1023" alt="CleanShot 2026-04-14 at 16 43 22" src="https://github.com/user-attachments/assets/1f28109d-b3ff-4f75-a435-5f047b86ea13" />
 Deep violet backgrounds with lavender accents and warm highlights.
 
 - **Dark background:** `#16111F`
@@ -14,6 +15,8 @@ Deep violet backgrounds with lavender accents and warm highlights.
 - **Highlights:** Rose (`#F07A9A`), peach (`#FFB38A`), gold (`#F7D98B`), mint (`#97E6B8`)
 
 ### Soft Lavender Light
+<img width="1920" height="1005" alt="CleanShot 2026-04-14 at 16 48 26" src="https://github.com/user-attachments/assets/d392094c-2c3b-40c4-889a-c9de04cce93b" />
+
 Bright, airy lavender on near-white. Same accent palette, elevated for light mode.
 
 - **Background:** `#FBF8FF`
@@ -21,6 +24,8 @@ Bright, airy lavender on near-white. Same accent palette, elevated for light mod
 - **Highlights:** Rose, apricot, gold, mint, lilac
 
 ### Soft Lavender Cream
+<img width="1917" height="1004" alt="CleanShot 2026-04-14 at 16 46 50" src="https://github.com/user-attachments/assets/1c0bd54f-c191-4c90-b10a-1c6b59ce8d84" />
+
 Warm cream base with soft lavender mids. Accents shift to warm neutrals — honey, peach, sage.
 
 - **Background:** `#FFFDF8`
@@ -28,6 +33,8 @@ Warm cream base with soft lavender mids. Accents shift to warm neutrals — hone
 - **Highlights:** Peach (`#D98B65`), honey (`#B98A2F`), sage (`#5AA07D`), plum
 
 ### Soft Lavender Rose
+<img width="1914" height="1002" alt="CleanShot 2026-04-14 at 16 48 49" src="https://github.com/user-attachments/assets/b43d1768-6d16-4562-9554-43785495f1d1" />
+
 Blush pink tones throughout. Berry and coral replace the warmer accents. Most playful of the four.
 
 - **Background:** `#FFF8FB`
